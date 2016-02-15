@@ -41,6 +41,11 @@ All JavaScript objects inherit their properties and methods from their prototype
 
 
 7.Use the Debugger to explain about the basic "things" all objects inherits from object
+
+Searching for errors in programming code is called code debugging.
+Built-in debuggers can be turned on and off, forcing errors to be reported to the user.
+With a debugger, you can also set breakpoints (places where code execution can be stopped), and examine variables while the code is executing.
+
 8.User defined Callback Functions
 
 Callbacks are functions that are executed asynchronously, or at a later time.

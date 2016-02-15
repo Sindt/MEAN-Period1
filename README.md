@@ -1,1 +1,0 @@
-# MEAN-Period1
